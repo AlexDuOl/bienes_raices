@@ -116,7 +116,7 @@ img {
 }
 
 .site-header.inicio {
-    background-image: url(css/img/header.jpg);
+    background-image: url("css/img/header.jpg");
     background-position: center center;
     background-size: cover;
     height: 100vh;
@@ -297,7 +297,7 @@ img {
 /* Contacto Home */
 
 .imagen-contacto {
-    background-image: url(css/img/encuentra.jpg);
+    background-image: url("css/img/encuentra.jpg");
     background-position: center center;
     background-size: cover;
     height: 40rem;
@@ -394,7 +394,7 @@ img {
 
 .testimonial blockquote::before {
     content: "";
-    background-image: url(css/img/comilla.svg);
+    background-image: url("css/img/comilla.svg");
     width: 4rem;
     height: 4rem;
     position: absolute;
