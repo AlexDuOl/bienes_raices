@@ -2,4 +2,4 @@
 
 **Página Web responsive**
 
-**Lenguajes utlizados:** HTML, CSS, JavaScript, Jquery.
+**Lenguajes utlizados:** HTML, CSS, JavaScript
